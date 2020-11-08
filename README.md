@@ -18,6 +18,8 @@ La segunda funcionalidad es notificar a un email que se ha realizado una operaci
 
 ## Integrantes
 
-Eddy Calderón\n
-Joel Choez\n
-David Garcia\n
+Eddy Calderón
+
+Joel Choez
+
+David Garcia
