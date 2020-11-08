@@ -8,3 +8,7 @@ Presenta por consola el color al que fue cambiado el fondo de la ventana.
 Y lo guarda en el archivo log.txt
 
 ![ex2](https://user-images.githubusercontent.com/69025663/98432059-fb79c700-20ba-11eb-8861-7ecab7a9cdac.png)
+
+La segunda funcionalidad es notificar a un email que se ha realizado una operación
+
+![tarea](https://user-images.githubusercontent.com/49259893/98456081-eba7c480-2146-11eb-9940-0d0295efb3b3.jpg)
