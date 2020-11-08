@@ -15,3 +15,9 @@ Y lo guarda en el archivo log.txt
 La segunda funcionalidad es notificar a un email que se ha realizado una operación
 
 ![tarea](https://user-images.githubusercontent.com/49259893/98456081-eba7c480-2146-11eb-9940-0d0295efb3b3.jpg)
+
+## Integrantes
+
+Eddy Calderón
+Joel Choez
+David Garcia
