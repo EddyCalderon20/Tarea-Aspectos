@@ -1,6 +1,14 @@
 # Tarea-Aspectos
 Al presionar el un botón se cambia del color.
 
+## Integrantes
+
+Eddy Calderón
+
+Joel Choez
+
+David Garcia
+
 ## Notify Aspect
 Presenta por consola el color al que fue cambiado el fondo de la ventana.
 
@@ -16,10 +24,4 @@ La segunda funcionalidad es notificar a un email que se ha realizado una operaci
 
 ![tarea](https://user-images.githubusercontent.com/49259893/98456081-eba7c480-2146-11eb-9940-0d0295efb3b3.jpg)
 
-## Integrantes
 
-Eddy Calderón
-
-Joel Choez
-
-David Garcia
